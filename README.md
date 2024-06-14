@@ -72,7 +72,7 @@ I. Install [3D Slicer version 5.7.0](https://download.slicer.org/), then install
 
 <img src="https://github.com/spinalcordtoolbox/spinalcordtoolbox/assets/77469192/9d7964d2-66e3-464d-ac1a-04caaaced63b" width="200px;" alt=""/>
 
-II. Download and unzip the `Butterfly_seg` from here
+II. Download and unzip the `Butterfly_seg` from [here](https://amubox.univ-amu.fr/s/79y3WtYqGF9Ga8x)
 
 III. nnUNet Install: Follow the instructions on first row of Fig. 02
 
