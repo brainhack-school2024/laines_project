@@ -82,11 +82,9 @@ III. nnUNet Install: Follow the instructions on first row of Fig. 02
 
 
 IV. Implementation
-- Navigate and select the Slicer friendly folder (See Fig.02) on `Model path`
+- Navigate and select the `Butterfly_seg` folder (See Fig.02) on `Model path`
 - Folds: Choose the fold that is currently implemented (4 for us), however we could also implement the 5 trained folds.
 - Apply !! 🚀🚀🚀🚀
-
-2. Choose the model to implement, download from the repo release page ( `.zip` file ~250 Mb) (see Table 01) and unzip.
 
 
 # Deliverables
@@ -96,16 +94,16 @@ IV. Implementation
 4. Jupyter notebook for data analysis
 
 # Conclusion
-1. Butterfly_seg performs well with in-vivo and ex-vivo MRI images
+1. `Butterfly_seg` performs well with in-vivo and ex-vivo MRI images
 - Bias: Only 2 ex-vivo specimens 
-2. Butterfly_seg performs well at cervical, thoracic and lumbar levels.
+2. `Butterfly_seg` performs well at cervical, thoracic and lumbar levels.
 - Imbalance class cervical / thoracic / lumbar images.
 3. Does not yet generalize to other contrasts (7T T1maps, 7T UNIT1).
 - Other contrasts should be included in training
-4. Butterfly_seg has been implemented in Slicer 
+4. `Butterfly_seg` has been implemented in Slicer 
 
 # Perspectives
-- Request data containing new contrasts (AMIRA, 7T T1 maps, 7T DWI, PSIR, MTR, T1w)
+- Request data containing new contrasts (AMIRA, 7T T1 maps, 7T DWI, PSIR, MTR, T1w, exvivo-data)
 - Try other deep learning approaches
 
 # Acknowledgements
