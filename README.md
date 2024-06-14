@@ -4,7 +4,7 @@
 # Spinal cord gray matter contrast-region-agnostic segmentation
 
 
-# Aboud me!
+# About me!
 <a href="https://github.com/Nilser3">
    <img src="https://avatars.githubusercontent.com/u/77469192?v=4?s=100" width="100px;" alt=""/>
    <br /><sub><b>Nilser Laines Medina</b></sub>
